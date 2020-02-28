@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1442785710 source:d:\gonzalo\documentos gonza\uns\2015 2º cuatrimestre\organizacion de computadoras\proyecto1\proyecto1\lista.c
+	<lista.h>
+	<stdlib.h>
+
+1444276799 
+
+1442785671 d:\gonzalo\documentos gonza\uns\2015 2º cuatrimestre\organizacion de computadoras\proyecto1\proyecto1\lista.h
+
+1442786393 source:d:\gonzalo\documentos gonza\uns\2015 2º cuatrimestre\organizacion de computadoras\proyecto1\proyecto1\pila.c
+	<memoria.h>
+	<pila.h>
+	<stdlib.h>
+
+1442786470 source:d:\gonzalo\documentos gonza\uns\2015 2º cuatrimestre\organizacion de computadoras\proyecto1\proyecto1\seleccionar.c
+	<pila.h>
+	<stdlib.h>
+
+1442786274 source:d:\gonzalo\documentos gonza\uns\2015 2º cuatrimestre\organizacion de computadoras\proyecto1\proyecto1\memoria.c
+	<lista.h>
+	<memoria.h>
+	<stdlib.h>
+
+1442780723 d:\gonzalo\documentos gonza\uns\2015 2º cuatrimestre\organizacion de computadoras\proyecto1\proyecto1\memoria.h
+
+1442780961 d:\gonzalo\documentos gonza\uns\2015 2º cuatrimestre\organizacion de computadoras\proyecto1\proyecto1\pila.h
+
+1444195119 source:d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\lista.c
+	<stdlib.h>
+	"lista.h"
+
+1444276285 source:d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\memoria.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"memoria.h"
+
+1444425220 "
+
+1444276326 source:d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"memoria.h"
+	"pila.h"
+
+1444425220 source:d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\seleccionar.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"memoria.h"
+
+1443587344 d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\lista.h
+
+1443915874 d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\memoria.h
+
+1444081445 d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\pila.h
+
+1444276799 source:d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\tester.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"memoria.h"
+	"pila.h"
+
+1443586765 d:\universidad\organización de computadoras (2015)\proyectos de programación\proyecto1\lista.c
+	"lista.h"
+	<stdlib.h>
+
+1444195120 source:/home/alumno/Descargas/Proyecto1/lista.c
+	<stdlib.h>
+	"lista.h"
+
+1443587346 /home/alumno/Descargas/Proyecto1/lista.h
+
+1444454212 source:/home/alumno/Descargas/Proyecto1/memoria.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"memoria.h"
+
+1443915876 /home/alumno/Descargas/Proyecto1/memoria.h
+
+1444276328 source:/home/alumno/Descargas/Proyecto1/pila.c
+	<stdio.h>
+	<stdlib.h>
+	"memoria.h"
+	"pila.h"
+
+1444081446 /home/alumno/Descargas/Proyecto1/pila.h
+
+1444425222 source:/home/alumno/Descargas/Proyecto1/seleccionar.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"memoria.h"
+
+1444528699 source:/home/alumno/Descargas/Proyecto1/tester.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"memoria.h"
+	"pila.h"
+
